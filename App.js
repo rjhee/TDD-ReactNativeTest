@@ -85,6 +85,9 @@ const App: () => Node = () => {
           </Section>
           <LearnMoreLinks />
         </View>
+        <View testID="welcome">
+          <Text>TDD TEST</Text>
+        </View>
       </ScrollView>
     </SafeAreaView>
   );

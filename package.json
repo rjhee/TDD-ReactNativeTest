@@ -41,7 +41,7 @@
         "build": "xcodebuild -workspace ios/AwesomeProject.xcworkspace -scheme AwesomeProject -configuration Debug -sdk iphonesimulator -derivedDataPath ios/build",
         "type": "ios.simulator",
         "device": {
-          "type": "iPhone 11 Pro"
+          "type": "iPhone 13"
         }
       }
     }
